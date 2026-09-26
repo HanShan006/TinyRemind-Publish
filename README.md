@@ -35,15 +35,9 @@
 **Pro / Pro 版:** ad-free · unlimited habits & reminders · priority support.
 *(无广告 · 无限习惯与提醒 · 优先支持)*
 
-## 🌐 Live Page / 在线页面
-
-This repository hosts the public product page:
-
-- 🔗 **https://hanshan006.github.io/TinyRemind-Publish/** — bilingual landing page (auto language by system)
-
 ## 📥 Download / 下载
 
-- App Store: *coming soon* — link to be added
+- App Store: [TinyRemind - AI Reminder](https://apps.apple.com/cn/app/tinyremind-ai-reminder/id6757321314?l=en-GB)
 - Requirements: iOS 15.0+ (system alarms iOS 26.1+)
 
 ## ❓ FAQ / 常见问题
@@ -68,9 +62,9 @@ All reminder, habit, goal, medication and anniversary data is stored **locally o
 
 ## 📦 About This Repository / 关于本仓库
 
-> ⚠️ **TinyRemind is closed-source software. This repository contains product documentation and the public landing page only — the application source code is private and not published here.**
+> ⚠️ **TinyRemind is closed-source software. This repository contains product documentation only — the application source code is private and not published here.**
 >
-> 小提醒为闭源软件。本仓库仅包含产品介绍文档与公开落地页，**不含任何应用源代码**。
+> 小提醒为闭源软件。本仓库仅包含产品介绍文档，**不含任何应用源代码**。
 
 ---
 
